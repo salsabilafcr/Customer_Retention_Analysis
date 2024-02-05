@@ -7,6 +7,7 @@ To extract valuable insights and patterns from the dataset, Python-based analysi
 The method involves grouping users into cohorts based on the month of their first transaction and tracking their retention rate over the following months. This approach enables a deep understanding of user loyalty and identifies potential challenges in retaining customers over time.
 
 ## Analysis Findings
+![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Univariate%20Clusters.png?raw=true)
 In January 2010, there were 713 first-time users, making it the largest cohort. This cohort also had the highest retention rate in the second month (39%), indicating a good level of sustainability. In addition, this cohort remained loyal with retention rates of around 40% or more in the following months.
 
 However, it should be noted that most users from the various cohorts did not return to transactions, with the retention rate not reaching 50%.  
